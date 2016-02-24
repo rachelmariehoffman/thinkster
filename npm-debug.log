@@ -6,7 +6,7 @@
 3 info using node@v4.2.4
 4 verbose stack Error: ENOENT: no such file or directory, open '/home/ubuntu/workspace/package.json'
 4 verbose stack     at Error (native)
-5 verbose cwd /home/ubuntu/workspace
+5 verbose cwd /home/ubuntu/workspace/thinkster
 6 error Linux 4.2.0-c9
 7 error argv "/home/ubuntu/.nvm/versions/node/v4.2.4/bin/node" "/home/ubuntu/.nvm/versions/node/v4.2.4/bin/npm" "start"
 8 error node v4.2.4
